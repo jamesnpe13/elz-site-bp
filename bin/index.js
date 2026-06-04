@@ -29,7 +29,7 @@ console.log(`Created ${projectName}`);
 // STEP 2: INSTALL DEPENDENCY (PUT YOUR CODE HERE)
 console.log(`Installing dependencies...`);
 
-execSync("npm install elz-ui-kit", {
+execSync("npm install elz-ui", {
   cwd: targetDir,
   stdio: "inherit"
 });
