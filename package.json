@@ -1,7 +1,7 @@
 {
     "name": "elz-site-bp",
     "description": "CLI tool that quickly scaffolds a starter website project with ready-to-use HTML, CSS, and JavaScript boilerplate and a clean folder structure.",
-    "version": "3.0.5",
+    "version": "3.0.0",
     "author": "James Elazegui",
     "bin": {
         "create-site": "./bin/index.js"
